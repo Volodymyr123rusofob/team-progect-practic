@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "team-progect-practic",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fs-94-vite/",
+    "build": "vite build --base=/team-progect-practic/",
     "preview": "vite preview"
   },
   "devDependencies": {
